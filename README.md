@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ermir-codes
 - 👀 I’m interested in AI agents for market analysis and research 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on anything related to the above
 - 📫 How to reach me ermir.shehaj.1@gmail.com
 - 
 
